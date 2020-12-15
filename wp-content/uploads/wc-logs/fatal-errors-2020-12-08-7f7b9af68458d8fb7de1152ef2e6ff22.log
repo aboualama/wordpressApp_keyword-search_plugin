@@ -1,0 +1,24 @@
+2020-12-08T02:06:04+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 79
+
+2020-12-08T02:06:06+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 79
+
+2020-12-08T02:06:06+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 79
+
+2020-12-08T02:41:55+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\options\options.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 125
+
+2020-12-08T02:41:57+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\options\options.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 125
+
+2020-12-08T02:41:57+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\options\options.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\xxx\xx.php on line 125
+
+2020-12-08T22:56:21+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
+2020-12-08T22:56:23+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
+2020-12-08T22:56:23+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
+2020-12-08T22:56:34+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
+2020-12-08T22:56:35+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
+2020-12-08T22:56:35+00:00 CRITICAL Cannot redeclare addAdminPageContent() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\Search-System\Search_System.php:68) in C:\xampp\htdocs\wordpress\wp-content\plugins\ccccccccccccc\cccccccc.php on line 32
+
